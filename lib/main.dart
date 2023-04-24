@@ -30,6 +30,7 @@ class _MyListState extends State<MyList> {
   List<SubjectFaculty> subjects =[
     SubjectFaculty(sub:"AI_DS",teacher:"Prof. Prasad Padalkar"),
     SubjectFaculty(sub:"MAD_PWA",teacher:"Prof. Nilesh Ghavate"),
+    SubjectFaculty(sub:"Student",teacher:"Shubham Talawadekar"),
   ];
 
 Widget subjectTemplate(sub){
